@@ -48,8 +48,7 @@
   <div class="section">
     <h2>📸 Preview</h2>
     <div class="preview">
-      <!-- Replace below with actual screenshot/gif -->
-      <p>[Loader preview will go here]</p>
+     <img src="gifs/SRC(2).gif">
     </div>
   </div>
 
